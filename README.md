@@ -6,7 +6,7 @@
  - Python
  - Django, Django REST framework
  - PostgreSQL
- - Unux (MacOS)
+ - Unix (MacOS)
 
 ### 📫 How to reach me
  - vlad_aganin33@hotmail.com
