@@ -3,8 +3,8 @@
 Аганин Владислав - Aganin Vladislav - Aganin V.
 
 ### 💻 My technology stack
- - Python
- - Django, Django REST framework
+ - Python, Java, Swift
+ - Django, Django REST Framework
  - PostgreSQL
  - Unix (MacOS)
 
