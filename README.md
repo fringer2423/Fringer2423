@@ -38,8 +38,8 @@
 
 <p align="center">
 <a href="https://github.com/fringer2423">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fringer2423&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fringer2423&layout=compact&langs_count=8&theme=default"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fringer2423&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fringer2423&layout=compact&langs_count=8&theme=default&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957"/>
 </a>
 </p>
 
