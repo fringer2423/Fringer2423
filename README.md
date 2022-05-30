@@ -1,6 +1,6 @@
 ![Aganin Vladislav Banner](https://raw.githubusercontent.com/fringer2423/fringer2423/master/assets/banner.png)
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" align="left"> Hey there! I'm Vladislav
+# <img src="https://raw.githubusercontent.com/fringer2423/fringer2423/master/assets/wave.gif" width="30px" align="left"> Hey there! I'm Vladislav
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -15,25 +15,25 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)\
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
-![XCode](https://img.shields.io/badge/-XCode-05122A?style=flat&logo=xcode)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&color=253245)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=253245)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518&color=253245)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&color=253245)\
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20&color=253245)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&color=253245)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C&color=253245)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&color=253245)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=253245)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&color=253245)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=253245)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&color=253245)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&color=253245)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&color=253245)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&color=253245)&nbsp;
+![XCode](https://img.shields.io/badge/-XCode-05122A?style=flat&logo=xcode&color=253245)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator&color=253245)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop&color=253245)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign&color=253245)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
