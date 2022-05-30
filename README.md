@@ -12,6 +12,13 @@
  - vlad_aganin33@hotmail.com
  - Telegram: @vlad_i_mir
 
+
+## Stats
+
+![default][default]
+
+[default]: https://github-readme-stats.vercel.app/api?username=fringer2423&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
+
 <!--
 **trdMichaelM/trdMichaelM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
