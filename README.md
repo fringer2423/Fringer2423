@@ -1,6 +1,6 @@
 ![Aganin Vladislav Banner](https://raw.githubusercontent.com/fringer2423/fringer2423/master/assets/banner.png)
 
-# <img src="https://raw.githubusercontent.com/fringer2423/fringer2423/master/assets/wave.gif" width="30px" align="left"> Hey there! I'm Vladislav
+<img alt="Night Coding" src="./assets/wave.gif" width='40' align="left"/><h2>Hey there! I'm Vladislav</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
