@@ -19,11 +19,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=253245)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518&color=253245)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&color=253245)\
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&color=253245)\
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20&color=253245)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&color=253245)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C&color=253245)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&color=253245)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C&color=253245)&nbsp;\
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&color=253245)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&color=253245)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq&color=253245)\
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&color=253245)
+![Linux](https://img.shields.io/badge/-LINUX-05122A?style=flat&logo=linux&color=253245)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=253245)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&color=253245)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&color=253245)&nbsp;
