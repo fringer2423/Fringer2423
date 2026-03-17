@@ -1,15 +1,16 @@
 ![Aganin Vladislav Banner](https://raw.githubusercontent.com/fringer2423/fringer2423/master/assets/banner.png)
 
-<img alt="Night Coding" src="./assets/wave.gif" width='40' align="left"/><h2>Hey there! I'm Vladislav</h2>
+### 👨🏻‍💻  About Me
+💡  I like to explore new technologies and develop software solutions and quick hacks.\
+🚀  Co-founder & CTO at UTF Tech — leading the development team and architecting innovative solutions.\
+🛠  I'm currently in charge of the development team, overseeing technical strategy and product delivery.\
+🌱  I'm going to learn more about systems design, web development and cloud architecture.\
+✍️  In my free time, I create various applications and experiment with new tech stacks.\
+💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️  You can shoot me an email at lead@utf-tech.ru! I'll try to respond as soon as I can.\
 
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🛠 &nbsp;I'm currently in charge of the development team.\
-🌱 &nbsp;I'm going to learn more about systems design, web development and cloud architecture.\
-✍️ &nbsp;In my free time, I create various applications.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at vlad_aganin33@hotmail.com! I'll try to respond as soon as I can.
+### 🔧  Current Focus
+Building the future of tech with UTF Tech — from product strategy to hands-on development.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/fringer2423/fringer2423/master/assets/Night-Coding.gif" align="right"/>
 
@@ -39,14 +40,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop&color=253245)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign&color=253245)
 
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/fringer2423">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fringer2423&show_icons=true&theme=default&include_all_commits=true&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/> 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fringer2423&layout=compact&langs_count=8&theme=default&bg_color=253245&title_color=ffffff&text_color=ffffff&icon_color=7ed957&hide_border=true"/>
-</a>
 </p>
 
 ### 📫 How to reach me
